@@ -1,5 +1,6 @@
 The Rainnbow:
 purple,
 pink,
-orange
+orange,
+green
 these are the colors of the rainbow.
